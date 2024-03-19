@@ -1,3 +1,5 @@
+Video: https://drive.google.com/file/d/180XtB-6VWp887Ah5OynD_bkSKNthzY_8/view?usp=drive_link
+
 Step 1: Create the `student_db` Database
 
 1. Launch pgAdmin
