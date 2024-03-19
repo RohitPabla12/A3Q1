@@ -57,3 +57,5 @@ Step 4: Run the Python Code
 2. Ensure the database connection details (`DB_NAME`, `DB_USER`, `DB_PASSWORD`, `DB_HOST`, `DB_PORT`) in the script match your PostgreSQL setup.
 
 3. Execute the Script: In the terminal or command prompt, ensure you are in the project directory and run: python main.py
+
+The code at the bottom must be uncommented for testing purposes.
